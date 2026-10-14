@@ -1,0 +1,11 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,CustomerSegment
+14646,2,73,280206.02,5,5,5,15,VIP Customers
+18102,1,60,259657.3,5,5,5,15,VIP Customers
+17450,8,46,194390.79,5,5,5,15,VIP Customers
+14911,1,201,143711.17,5,5,5,15,VIP Customers
+12415,24,21,124914.53,4,5,5,14,VIP Customers
+14156,10,55,117210.08,5,5,5,15,VIP Customers
+17511,3,31,91062.38,5,5,5,15,VIP Customers
+16684,4,28,66653.56,5,5,5,15,VIP Customers
+14096,4,17,65164.79,5,5,5,15,VIP Customers
+13694,4,50,65039.62,5,5,5,15,VIP Customers
