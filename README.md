@@ -1,3 +1,41 @@
+## Power BI Dashboard – Sales Performance & Customer Segmentation
+
+### Project Overview
+Developed an interactive Power BI dashboard to analyze e-commerce sales performance, customer retention, and customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+
+### Tools Used
+- Power BI Desktop
+- DAX
+- SQL
+- Python (Pandas)
+- Excel Power Query
+- GitHub
+
+### Dashboard 1: Sales Overview
+- Total Revenue: 10.67M
+- Total Orders: Approximately 20K
+- Total Customers: Approximately 4K
+- Average Order Value: 534.40
+- Monthly revenue trends
+- Revenue forecasting
+- Country-based filtering
+
+### Dashboard 2: Customer Segmentation & RFM Analysis
+- Calculated Recency, Frequency, and Monetary metrics.
+- Created RFM scores to categorize customers.
+- Identified five customer segments: VIP, Loyal, Regular, New, and At Risk.
+- Visualized customer counts and revenue by segment.
+- Analyzed high-value customer groups.
+
+### Key Insights
+- VIP customers generated the highest revenue.
+- Regular customers represented the largest customer segment.
+- Monthly revenue showed fluctuations and periods of strong growth.
+- RFM analysis helped identify opportunities for customer retention and targeted marketing.
+
+### Deliverables
+- `Ecommerce_Sales_Analytics.pbix` – Interactive Power BI report
+- `Ecommerce_Sales_Dashboard.pdf` – Dashboard export
 # E-Commerce Customer Retention & Sales Performance Analytics
 
 ## Project Overview
